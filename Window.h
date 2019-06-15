@@ -9,12 +9,14 @@
 #include <QtWidgets/QWidget>
 #include <QtCore/QStorageInfo>
 #include <QtWidgets/QComboBox>
+#include <QtWidgets/QProgressBar>
 
 class Window: public QWidget {
   Q_OBJECT
 private:
     QStorageInfo storage = QStorageInfo::root();
     QComboBox *pathComboBox;
+    QProgressBar *diskUsageBar;
 
     QComboBox *createComboBox(const QString &text = QString());
 public:

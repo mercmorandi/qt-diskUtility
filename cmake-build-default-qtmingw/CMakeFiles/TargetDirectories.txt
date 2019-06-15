@@ -1,4 +1,0 @@
-C:/Users/merkm/CLionProjects/qtTricking/cmake-build-default-qtmingw/CMakeFiles/qtTricking.dir
-C:/Users/merkm/CLionProjects/qtTricking/cmake-build-default-qtmingw/CMakeFiles/edit_cache.dir
-C:/Users/merkm/CLionProjects/qtTricking/cmake-build-default-qtmingw/CMakeFiles/rebuild_cache.dir
-C:/Users/merkm/CLionProjects/qtTricking/cmake-build-default-qtmingw/CMakeFiles/qtTricking_autogen.dir
